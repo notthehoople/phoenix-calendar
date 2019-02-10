@@ -1,0 +1,6 @@
+# Ignore executables
+phcal
+
+# Ignore output test files
+output.*
+output*
